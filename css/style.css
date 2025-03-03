@@ -1,0 +1,268 @@
+
+.ajay2{
+    margin-left: 250px;
+}
+.ajay3{
+    list-style: none;
+}
+.banner2{
+    background-image: url("https://www.chardhamplan.com/images/Yamunotri-place-to-visit.png");
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 0px;
+    margin-left: 0px;
+    width:-webkit-fill-available;
+    
+    
+    
+}
+.ajay4{
+    background-color:lightblue;
+    height: 200px;
+}
+.ajay5{
+    background-color: antiquewhite;
+    height: 200px;
+}
+.banner5{
+background-image: url("https://registrationandtouristcare.uk.gov.in/images/page_banner.jpg");
+height: 200px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.ajay6{
+    padding-top: 60px;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+.banner6{
+    background-image: url("https://mountainsjourney.com/wp-content/uploads/2024/05/GANGOTRI-DHAM-2024-YATRA-1.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ajay7:hover{
+    color: white;
+    background-color: orangered;
+}
+.text-center:hover{
+    background-color: orangered;
+    color: white;
+}
+
+.nav-link:hover{
+    color: orangered;
+}
+.ajay10{
+    background-color: brow;
+}
+.banner9{
+    background-image: url("");
+    height: 330px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:-webkit-fill-available;
+    width: 300px;
+}
+.banner10{
+    background-image: url("https://navbharattimes.indiatimes.com/thumb/85649349/places-to-visit-in-rishikesh-in-hindi-85649349.jpg?imgsize=147704&width=1600&height=900&resizemode=75");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: -webkit-fill-available;
+    
+}
+.banner12{
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipMCLvVE_pP3HKrlOrvPc6F0zkLf4UWt0lyib1qB=s680-w680-h510-rw");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner13{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Evening_praying_time_at_Parmarth_Niketan_ghat%2C_by_the_Ganges%2C_Rishikesh.jpg/1024px-Evening_praying_time_at_Parmarth_Niketan_ghat%2C_by_the_Ganges%2C_Rishikesh.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.banner14{
+    background-image: url("https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto/best-hill-stations-near-mussoorie-header.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:webkit-fill-available;
+}
+.banner15{
+    background-image: url("https://www.tourmyindia.com/states/uttarakhand/images/gun-hill-mussoorie1.jpg");
+    height: 370px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.banner16{
+    background-image: url("https://vibrant.holiday/uploads/guide/images/15557654903.jpg");
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: webkit-fill-available;
+
+
+}
+.banner17{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ranikhet_town_at_night%2C_from_Rai_estate.jpg/1920px-Ranikhet_town_at_night%2C_from_Rai_estate.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner18{
+    background-image: url("http://nationalzoo.com.au/wp-content/uploads/2017/01/tiger-banner.jpg");
+    height: 450px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: webkit-fill-available;
+}
+.banner20{
+    background-image: url("https://corbettgov.org/assets/images/167-24-1024x734.webp");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.me{
+    
+    color: white;
+    font-weight: 700px;
+    font-size: 70px;
+}
+.banner21{
+    background-image: url("https://threesixtyholidays.com/public/front_end/assets/images/destination/Nainital/nainital_banner.jpg");
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.banner22{
+    background-image: url("https://www.chardham-pilgrimage-tour.com/assets/images/gangotri-banner4.webp");
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner26{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%96%E0%A4%82%E0%A4%A1_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%A8_%E0%A4%AC%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%BE%E0%A4%A5_%E0%A4%95%E0%A5%87_%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8_%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%87_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B2%E0%A5%81_.._%E0%A4%AC%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%BE%E0%A4%A5_%E0%A4%A7%E0%A4%BE%E0%A4%AE_%E0%A4%AE%E0%A5%87%E0%A4%82.jpg/1024px-thumbnail.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.banner28{
+    background-image: url("https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/hi/img/article/2022-01/06/full/1641491855-7938.jpg&w=&h=&outtype=webp");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner29{
+    background-image: url("https://www.rastradhwani.com/wp-content/uploads/2023/11/Shri-Badrinath-Dham.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner30{
+    background-image: url("https://images.herzindagi.info/image/2024/Apr/What-is-the-Connection-between-kedarnath-and-pashupatinath.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner31{
+    background-image: url("https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/hi/img/article/2023-04/25/full/1682424435-2536.jpeg&w=&h=&outtype=webp");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner32{
+    background-image: url("https://www.ttrikon.com/system/images/000/765/742/fe60c309bc37f5b4cedb6a8c8af26e70/original/Kedarnath.jpg?1723099395");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner33{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQf7-h-RlDrYla_XqwWGWevdIj_LodxpIJQ&s");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.banner34{
+    background-image: url("https://www.euttaranchal.com/tourism/_imgs/about-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+.ajay8{
+    background-image: url("https://t.eucdn.in/tourism/lg/adi-badri-7616029.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.ajay12{
+    background-image: url("https://t.eucdn.in/tourism/lg/angyari-mahadev-temple-9546587.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+.ajay13{
+    background-image: url("https://t.eucdn.in/tourism/lg/anusuya-temple-atrimuni-ashram-2849091.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.ajay14{
+    background-image: url("https://t.eucdn.in/tourism/lg/augustmuni-6827790.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.ajay15{
+    background-image: url("https://t.eucdn.in/tourism/lg/badhangarhi-temple-4142294.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+.ajay16{
+    background-image: url("https://t.eucdn.in/tourism/lg/badrinath-9217767.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
