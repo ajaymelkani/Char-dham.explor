@@ -50,8 +50,13 @@ background-size: cover;
 .ajay7:hover{
     color: white;
     background-color: orangered;
+
 }
-.text-center:hover{
+.ajay7{
+    background-color:orangered ;
+    color: white;
+}
+.text-center{
     background-color: orangered;
     color: white;
 }
@@ -265,4 +270,28 @@ background-size: cover;
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
+}
+.banner35{
+    background-image: url("https://thumbs.dreamstime.com/b/contact-me-sticky-note-laptop-closeup-message-53436480.jpg");
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ajay19{
+    font-size: 120px;
+    color: black;
+    font-weight: 1000;
+    text-align: center;
+
+}
+.ajay20{
+    background-color: black;
+}
+.ajay21{
+    list-style: none;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: black;
+    color: white;
 }
